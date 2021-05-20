@@ -13,8 +13,13 @@ This is a first 85 000 NFT's objects json dump from hicetnunc.xyz **with only mi
 
 However, this repository consists analyzer summary report for all existed objects (without copyminted or banned):
 
+### summary-full.json
+
+This file describes mimeType <-> objectId relation.
+
+### summary.json
+
 ```
-// summary.json
 // There is no 85 000 objects because some kind of they just banned.
 
 {
