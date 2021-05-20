@@ -11,11 +11,15 @@ This is a first 85 000 NFT's objects json dump from hicetnunc.xyz **with only mi
 * model/gltf-binary
 * application/x-directory
 
-However, this repository consists analyzer summary report for all existed objects (without copyminted or banned):
+However, this repository consists analyzer summary report for all existed objects (without copyminted or banned).
 
-### summary-full.json
+Files:
 
-This file describes mimeType <-> objectId relation.
+* **summary.json** - simplified analyzer report only with different mime types counts.
+* **summary-full.json** - this file describes full summary with mimeType <-> objectId relation.
+* **glObjtksIds.json** - Object Ids list for glb/gltf tokens.
+* **jsObjktsIds.json** - Object Ids list for javascript art tokens.
+
 
 ### summary.json
 
