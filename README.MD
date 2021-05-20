@@ -59,8 +59,8 @@ This file describes mimeType <-> objectId relation.
 
 ## Why?
 
-The interactive 3d models and javascript art objects are the most valuable to me as NFT tokens. But a lot of objects on the hicetnunc.xyz gallery are 
-images, gif and videos. I just filtered out the objects with other mime types.
+The interactive 3d models and javascript art objects are the most valuable to me as NFT tokens. But a lot of objects at hicetnunc.xyz gallery are 
+the images, gif and videos. I just filtered out the objects with other mime types.
 
 
 ## What's next?
