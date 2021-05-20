@@ -1,0 +1,82 @@
+{
+  "summary": {
+    "allObjectsCount": 81943
+  },
+  "fileTypes": {
+    "video/mp4": {
+      "count": 15390
+    },
+    "image/png": {
+      "count": 22205
+    },
+    "image/jpeg": {
+      "count": 26595
+    },
+    "video/quicktime": {
+      "count": 682
+    },
+    "image/gif": {
+      "count": 11170
+    },
+    "image/svg+xml": {
+      "count": 1081
+    },
+    "audio/mpeg": {
+      "count": 184
+    },
+    "video/webm": {
+      "count": 158
+    },
+    "model/gltf-binary": {
+      "count": 1808
+    },
+    "video/avi": {
+      "count": 4
+    },
+    "model/gltf+json": {
+      "count": 27
+    },
+    "image/tiff": {
+      "count": 52
+    },
+    "application/x-directory": {
+      "count": 2378
+    },
+    "video/x-matroska": {
+      "count": 1
+    },
+    "": {
+      "count": 11
+    },
+    "image/webp": {
+      "count": 12
+    },
+    "application/pdf": {
+      "count": 110
+    },
+    "image/bmp": {
+      "count": 52
+    },
+    "video/x-ms-wmv": {
+      "count": 1
+    },
+    "video/ogg": {
+      "count": 11
+    },
+    "audio/x-wav": {
+      "count": 1
+    },
+    "Unknown MimeType": {
+      "count": 1
+    },
+    "audio/ogg": {
+      "count": 1
+    },
+    "audio/wav": {
+      "count": 7
+    },
+    "text/javascript": {
+      "count": 1
+    }
+  }
+}

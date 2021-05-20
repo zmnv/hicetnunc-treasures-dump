@@ -1,0 +1,32 @@
+{
+  "summary": {
+    "allObjectsCount": 81943
+  },
+  "fileTypes": {
+    "video/mp4": 15390,
+    "image/png": 22205,
+    "image/jpeg": 26595,
+    "video/quicktime": 682,
+    "image/gif": 11170,
+    "image/svg+xml": 1081,
+    "audio/mpeg": 184,
+    "video/webm": 158,
+    "model/gltf-binary": 1808,
+    "video/avi": 4,
+    "model/gltf+json": 27,
+    "image/tiff": 52,
+    "application/x-directory": 2378,
+    "video/x-matroska": 1,
+    "Unknown Empty": 11,
+    "image/webp": 12,
+    "application/pdf": 110,
+    "image/bmp": 52,
+    "video/x-ms-wmv": 1,
+    "video/ogg": 11,
+    "audio/x-wav": 1,
+    "Unknown MimeType": 1,
+    "audio/ogg": 1,
+    "audio/wav": 7,
+    "text/javascript": 1
+  }
+}
